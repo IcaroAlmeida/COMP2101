@@ -12,3 +12,4 @@ ${foo[@]}"
 echo "There are ${#foo[@]} key-value pairs in the hash"
 echo "The keys for all elements are:
 ${!foo[@]}"
+#end
